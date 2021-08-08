@@ -6,7 +6,7 @@
 
 # COMANDS/
 
-$ https://github.com/hamalord4444/INSTA
+$ git clone https://github.com/hamalord4444/INSTA
 
 $ cd INSTA
 
