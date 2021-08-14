@@ -1,4 +1,4 @@
-# INSTA
+# INSTAGRAM NEW UPDATE
 
 # TOOL INSTAGRAM CRACKER
 
@@ -6,10 +6,10 @@
 
 # COMANDS/
 
-$ git clone https://github.com/hamalord4444/INSTA
+$ git clone https://github.com/hamalord4444/INSTAGRAM
 
-$ cd INSTA
+$ cd INSTAGRAM
 
-$ python2 ENC.py
+$ python2 LORD_CHICKER_INSTAGRAM.py
 
   #To Active Your Id send message for me in telegram MY_TELEGRAM >>> @H_4_4_4_4_D
